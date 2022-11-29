@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprotonxio_blog=self.webpackChunkprotonxio_blog||[]).push([[535],{5641:t=>{t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"L\u1ed9 tr\xecnh \u0111\u1ec3 tr\u1edf th\xe0nh k\u1ef9 s\u01b0 h\u1ecdc m\xe1y t\u1eeb con s\u1ed1 0","permalink":"/blog/2021/08/26/welcome"}]}')}}]);
