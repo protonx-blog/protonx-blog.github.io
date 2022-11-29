@@ -2,16 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://protonx.io/blog</id>
     <title>ProtonX AI E-learning Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2022-11-29T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://protonx.io/blog"/>
     <subtitle>ProtonX AI E-learning Blog</subtitle>
     <icon>https://protonx.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Lộ trình để trở thành kỹ sư học máy từ con số 0]]></title>
-        <id>/2021/08/26/welcome</id>
-        <link href="https://protonx.io/blog/2021/08/26/welcome"/>
-        <updated>2021-08-26T00:00:00.000Z</updated>
+        <id>/tro-thanh-ky-su-hoc-may-tu-con-so-0</id>
+        <link href="https://protonx.io/blog/tro-thanh-ky-su-hoc-may-tu-con-so-0"/>
+        <updated>2022-11-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Sau 1 năm rưỡi xây dựng, ProtonX đã hoàn thành đầy đủ lộ trình để bạn có thể trở thành một kỹ sư học máy thực thụ từ con số 0.]]></summary>
         <content type="html"><![CDATA[<p>Sau 1 năm rưỡi xây dựng, ProtonX đã hoàn thành đầy đủ lộ trình để bạn có thể trở thành một kỹ sư học máy thực thụ từ con số 0.</p><p><img loading="lazy" src="https://storage.googleapis.com/mle-courses-prod/users/61b869ca9c3c5e00292bb42d/private-files/9b183e40-6a3d-11ed-92ef-c72193b85975-full_path.png" alt="img" class="img_ev3q"></p><p>Đường dẫn truy cập: <a href="https://protonx.io/mle" target="_blank" rel="noopener noreferrer">https://protonx.io/mle</a></p><p>Những kỹ năng quan trọng bạn cần:</p><ul><li>Lập trình Python</li><li>Lập trình thuật toán (vượt qua các bài tập Leetcode)</li><li>Toán nền tảng</li><li>Học máy và Học sâu nền tảng</li><li>Ứng dụng Học sâu vào xây ứng dụng</li><li>Triển khai mô hình thực tế trên sản phẩm của mình.</li></ul><p>Bạn có thể sử dụng lộ trình này như kim chỉ nam để trở thành kỹ sư AI.</p>]]></content>
     </entry>
